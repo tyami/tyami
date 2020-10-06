@@ -6,7 +6,8 @@
 
 🌞 TAEYANG YANG
 
-🎓 Ph'D candidate majoring in biomedical engineering
+🎓 Ph'D candidate
+- [Brain-Computer Interface laboratory](http://bci.unist.ac.kr/), Biomedical engineering, [UNIST](https://www.unist.ac.kr/), Republic of Korea
 
 💖 Interest
 - Data science
