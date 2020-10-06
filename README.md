@@ -4,12 +4,12 @@
   
 </div>
 
-🌞 TAEYANG YANG
+🌞 **TAEYANG YANG**
 
-🎓 Ph'D candidate
+🎓 **Ph'D candidate**
 - [Brain-Computer Interface laboratory](http://bci.unist.ac.kr/), Biomedical engineering, [UNIST](https://www.unist.ac.kr/), Republic of Korea
 
-💖 Interest
+💖 **Interest**
 - Data science
 - Brain data (EEG, fMRI) analysis
 - Machine learning
