@@ -13,7 +13,6 @@
 - Data science
 - Brain data (EEG, fMRI) analysis
 - Machine learning & Deep learning
-- Medical data analysis
 
 <div align=center>
   
