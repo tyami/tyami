@@ -6,7 +6,7 @@
 
 🌞 **TAEYANG YANG**
 
-🎓 **Ph'D candidate**
+🎓 **Ph'D in Human Factors Engineering**
 - [Brain-Computer Interface laboratory](http://bci.unist.ac.kr/), [Biomedical engineering](http://bme.unist.ac.kr/), [UNIST](https://www.unist.ac.kr/), Republic of Korea
 
 💖 **Interest**
